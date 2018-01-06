@@ -43,7 +43,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Palette Picker PWA](https://holt-palette-picker.herokuapp.com/)
 * [Websockets Tutorial](https://github.com/ameseee/socket-chat) - Broadcast a message to connected users when someone connects or disconnects, Add support for nicknames, Add “{user} is typing” functionality
 * [House of Vars Blog Post](https://medium.com/@ameseholt/how-i-stumbled-upon-microservice-architecture-2051d136dc2d)
-* [Pattern Party]()
+* [Pattern Party Repo](https://github.com/ameseee/pattrn-party)
+* [Pattern Party GitPages](https://ameseee.github.io/pattrn-party/)
 
 ### Alex Banister
 
@@ -63,7 +64,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Palette Picker PWA](https://palette-picker-bp.herokuapp.com/)
 * [Websockets Tutorial]()
 * [House of Vars Blog Post](https://medium.com/@bbp5280/diving-into-open-source-a-first-experience-40f945a52b7b)
-* [Pattern Party]()
+* [Pattern Party Repo]()
 
 ### Francy Lang
 
